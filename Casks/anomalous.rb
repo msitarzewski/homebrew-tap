@@ -1,6 +1,6 @@
 cask "anomalous" do
-  version "0.3.0"
-  sha256 "1dbe0e24ecdccf1b1134c7c3d6c127eefc724e4f0781b995aaa241549cc1cf36"
+  version "0.3.1"
+  sha256 "e29e1827efa8ffb55cce9337ba3e5723f0ea260b7f7f8c2d89fe544dbb04b730"
 
   url "https://github.com/msitarzewski/anomalous-mac/releases/download/v#{version}/Anomalous-#{version}.dmg"
   name "Anomalous"
